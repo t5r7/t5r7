@@ -2,7 +2,7 @@
 
 Some of my favourite projects I've created or contributed to include...
 
-- 🧑🏻‍🏫 [Lecturer Background](https://github.com/UoPNetSoc/lecturer-bg) (2023)  
+- 👨‍🏫 [Lecturer Background](https://github.com/UoPNetSoc/lecturer-bg) (2023)  
   …automatically (and amusingly) sets your desktop background to your currently timetabled lecturer.
 
 - 🚂 [Next Trains](https://thomasr.me/next-trains/) (2018)  
