@@ -1,4 +1,5 @@
 # Hello! ✨
+I am not a developer—networking and infrastructure is more my thing—but I do like making things sometimes!
 
 Some of my favourite projects I've created or contributed to include...
 
